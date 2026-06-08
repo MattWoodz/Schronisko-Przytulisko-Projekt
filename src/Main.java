@@ -8,7 +8,7 @@ public class Main {
         String plikBazy = "baza_schroniska.csv";
 
         System.out.println("==================================================");
-        System.out.println("   WITAJ W SYSTEMIE SCHRONISKA SafeHaven");
+        System.out.println("   WITAJ W SYSTEMIE SCHRONISKA PRZYTULISKO");
         System.out.println("==================================================");
 
         boolean programDziala = true;
